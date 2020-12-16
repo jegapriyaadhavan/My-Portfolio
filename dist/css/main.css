@@ -9,6 +9,7 @@
 
 body {
     word-wrap:break-word;
+	  color: #fff;
  }
 
  body#bg-img {
@@ -31,7 +32,7 @@ text-align:center;}
   h2.sm-heading{
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
-    background: rgba(55, 1, 71, 0.5); 
+    background: rgb(228, 112, 4);
 text-align:center;}
 
 
@@ -129,7 +130,7 @@ main {
 
 
 .name span {
-	color: #95cdfc;
+	color: #013661;
 	opacity: 0;
 	transform: rotate(-180deg) translate(150px, 0);
 	animation: twister .5s forwards;
