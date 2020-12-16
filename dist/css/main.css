@@ -10,6 +10,10 @@ body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
+ body#bg-img {
+    background: rgba(68, 68, 68, 0.9);
+    background-attachment: fixed;
+    background-size: cover; } 
 
 
 h1,
@@ -67,7 +71,6 @@ body
 	width: 100%;
 	margin: auto;
 	font-weight: 900;
-	text-transform: uppercase;
 	text-align: center;
 	padding: 0 0 200px;
 }
