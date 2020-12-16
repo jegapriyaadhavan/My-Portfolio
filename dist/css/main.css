@@ -9,16 +9,10 @@
 
 body {
     word-wrap:break-word;
-
-  background: rgb(239, 185, 250);
-  color: #fff;
-  height: 100%;
-  margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.5; }
+ }
 
  body#bg-img {
-    background: rgba(255, 243, 172, 0.9);
+       background: rgba(252, 232, 143, 0.9);
     background-attachment: fixed;
     background-size: cover; } 
 
@@ -30,7 +24,9 @@ h2{
     
 }
   h1.lg-heading{
-    font-size: 8rem; }
+    font-size: 8rem;
+	font-weight: 900;
+text-align:center;}
   
   h2.sm-heading{
     margin-bottom: 2rem;
@@ -59,12 +55,7 @@ main {
 
 
 
-.container {
-	
-	text-align: center;
-	padding: 0 0 200px;
-}
- 
+
 
 .animate {
 	font-size: 50px;
